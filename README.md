@@ -50,4 +50,4 @@ You can proceed to get some `concoins` using the `.daily` command, in case you w
 
 ## Notes
 
-This project was made for people to learn how to use [Concord](https://github.com/Cogmasters/concord) and [PostgreSQL](https://www.postgresql.org) and was not meant to be used professionally, but improvements are always welcome!
+This project was made for people to learn how to use C, [Concord](https://github.com/Cogmasters/concord) and [PostgreSQL](https://www.postgresql.org) and was not meant to be used professionally, but improvements are always welcome!
